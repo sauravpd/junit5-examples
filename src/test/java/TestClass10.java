@@ -5,7 +5,8 @@ public class TestClass10
 {
 	@Test
 	@Tag("smoke")
-	public void test1() {
+	public void test1() 
+	{
 		System.out.println("TestClass10: test1");
 	}
 
